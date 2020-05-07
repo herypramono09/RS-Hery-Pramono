@@ -2,3 +2,4 @@
 GridLayout with GridLayoutManager RecyclerView (Hery Pramono)
 
 ![alt tag](https://herypramono.my.id/images/RS-HeryPramono.jpeg "RS Hery Pramono")
+![alt tag](https://herypramono.my.id/images/mockup-RSHeryPramono.png "RS Hery Pramono")
