@@ -1,4 +1,4 @@
-# AndroidGridLayout
-Android GridLayout with GridLayoutManager RecyclerView
+# RS Hery Pramono - Jadwal Dokter
+GridLayout with GridLayoutManager RecyclerView (Hery Pramono)
 
-![alt tag](https://herypramono.my.id "RS Hery Pramono")
+![alt tag](https://herypramono.my.id/images/RS-HeryPramono.jpeg "RS Hery Pramono")
